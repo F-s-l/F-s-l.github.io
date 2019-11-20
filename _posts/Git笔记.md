@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Git个人笔记"
+date: 2019.11.21
+description: "Git学习总结"
+
+tag: 博客 
+---   
 # Git是什么？
 Git是目前世界上最先进的分布式版本控制系统（没有之一）。
 ### 那什么是版本控制器？
