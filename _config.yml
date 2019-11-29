@@ -5,8 +5,8 @@ description: 欢迎来到我的个人博客~
 # 头像里面的标题
 avatarTitle: Fsl
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 博客学习
+url: "http://F-s-l.github..io"
 
 # Comment
 comment:
@@ -71,5 +71,6 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
+
 
 
